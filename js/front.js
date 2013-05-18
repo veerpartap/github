@@ -19,7 +19,7 @@ function show_cause()
 
 function login() 
 {
-
+	alert("Are you sure you want to login into the system");
 	 /* if username is incorrect  */
 	
 	/* if password is empty      */
