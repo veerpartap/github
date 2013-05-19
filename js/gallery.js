@@ -5,7 +5,7 @@ function move_next()
 }
 
 
-function move_back() 
+function move_backs() 
 {
 	alert("this function will bring previous slide to the frame");
 	return false;
