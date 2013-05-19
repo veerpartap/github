@@ -21,6 +21,7 @@ function login()
 {
 	alert("Are you sure you want to login into the system");
 	alert("Kindly keep your password confidential");
+	alert("You are logged in successfully.");
 	 /* if username is incorrect  */
 	
 	/* if password is empty      */
