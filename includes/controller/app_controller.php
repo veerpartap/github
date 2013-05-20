@@ -1,6 +1,6 @@
 <?php
 
-/* 	class file  of app controller	*/
+/* 	class file 	*/
 class AppController extends controllers 
 {
 	var $name = "application"; 
